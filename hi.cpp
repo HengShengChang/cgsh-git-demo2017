@@ -6,6 +6,8 @@ int main(){
 cout << endl;
 for(int i=10; i>0; i++)
 cout << i << '\t';
+
+cout << endl;
 cout << endl;
 return 0;
 }
